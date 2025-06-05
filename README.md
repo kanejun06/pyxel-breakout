@@ -2,7 +2,7 @@
 
 A classic breakout-style game built with Pyxel, featuring modern visual effects and satisfying gameplay mechanics.
 
-🎮 [Play the game here](https://[your-github-username].github.io/pyxel-breakout/)
+🎮 [Play the game here](https://kanejun06.github.io/pyxel-breakout/)
 
 ## Features
 
